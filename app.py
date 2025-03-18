@@ -6,8 +6,8 @@ from shazamio import Shazam
 import yt_dlp
 
 # 🔹 توکن ربات تلگرام
-TOKEN = 'توکن_ربات_تلگرام_خودت'
-WEBHOOK_URL = 'https://your-app-name.onrender.com/webhook'
+TOKEN = '7653985915:AAHplpzT0LoVhpesrG_DkrNx4TxbycoPnP0'
+WEBHOOK_URL = 'https://telegram-bot-qe84.onrender.com/webhook'
 
 # 🔹 تنظیمات اولیه
 app = Flask(__name__)
